@@ -8,11 +8,14 @@ I would like to dabble more into electric engineering and understand electrical 
 
 ---
 
+- Q: Why is your profile so empty? 👀
+- A: `This is because majority of my projects are privated, I have some idea's I think are super awesome and would like to flush them more out before I go public with them!`
+
 - Q: What does your username "kubiku" mean? 🤔
 - A: `This is a branding name I came up with for my music artist account and how I go by online.`
 
 - Q: What is your favourite pets? 🐱
-- A: `I absolutely adore cats!!! their my little floofballs! I like dogs too but my bias is more to the feline side`
+- A: `I absolutely adore cats!!! their my little floofballs! I like dogs too but my bias is more to the feline side.`
 
 - Q: How can I contact you? 📫
 - A: `You can reach me by contacting me through my email: kubiku.contact@gmail.com`
