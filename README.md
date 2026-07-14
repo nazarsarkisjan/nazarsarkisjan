@@ -1,7 +1,11 @@
 ## Welcome 👋
+I enjoy messing around a bit and finding interesting topics I can learn, recently I wanted to dabble more into embedded engineering so I decided to slowly start learning low level programming and a bit about electronics. I am very passionate about getting more into it and it feels super fun to mess around with components. Next to this obsession with hardware I also have some private projects I am working on which have to do with my hobby of making music and sharing communities!
 
-- 🔭 I’m currently working on some private projects
-- 🌱 I’m currently learning embedded engineering in my free time
+---
+
+- Q: 📫 How to reach me:
+- A: `you can reach me by contacting me through my email: kubiku.contact@gmail.com`
+
 <!--
 **nazarsarkisjan/nazarsarkisjan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
