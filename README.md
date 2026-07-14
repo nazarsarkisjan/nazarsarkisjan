@@ -1,5 +1,7 @@
-## Hi there 👋
+## Welcome 👋
 
+- 🔭 I’m currently working on some private projects
+- 🌱 I’m currently learning embedded engineering in my free time
 <!--
 **nazarsarkisjan/nazarsarkisjan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
