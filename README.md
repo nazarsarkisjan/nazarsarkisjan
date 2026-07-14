@@ -14,9 +14,6 @@ I would like to dabble more into electric engineering and understand electrical 
 - Q: What does your username "kubiku" mean? 🤔
 - A: `This is a branding name I came up with for my music artist account and how I go by online.`
 
-- Q: What is your favourite pets? 🐱
-- A: `I absolutely adore cats!!! their my little floofballs! I like dogs too but my bias is more to the feline side.`
-
 - Q: How can I contact you? 📫
 - A: `You can reach me by contacting me through my email: kubiku.contact@gmail.com`
 
