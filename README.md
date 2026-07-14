@@ -4,7 +4,7 @@ I enjoy messing around a bit and finding interesting topics I can learn, recentl
 ---
 
 ### What do you plan on doing in the future?
-I would like to dabble more into electric engineering and understand electrical components more. The fact that electricity is so versatile is increadibly fascinating to me, especially when you can combine it with code to get more possibilities out of it! 
+I would like to dabble more into electric engineering and understand electrical components more. The fact that electricity is so versatile is increadibly fascinating to me, especially when you can combine it with code to get even more incredible possibilities out of it!
 
 ---
 
