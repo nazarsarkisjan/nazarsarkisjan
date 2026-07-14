@@ -3,8 +3,8 @@ I enjoy messing around a bit and finding interesting topics I can learn, recentl
 
 ---
 
-- Q: 📫 How to reach me:
-- A: `you can reach me by contacting me through my email: kubiku.contact@gmail.com`
+- Q: How can I contact you? 📫
+- A: `You can reach me by contacting me through my email: kubiku.contact@gmail.com`
 
 <!--
 **nazarsarkisjan/nazarsarkisjan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
