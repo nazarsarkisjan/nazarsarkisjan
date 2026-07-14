@@ -1,5 +1,10 @@
-## Welcome 👋
+# Welcome 👋
 I enjoy messing around a bit and finding interesting topics I can learn, recently I wanted to dabble more into embedded engineering so I decided to slowly start learning low level programming and a bit about electronics. I am very passionate about getting more into it and it feels super fun to mess around with components. Next to this obsession with hardware I also have some private projects I am working on which have to do with my hobby of making music and sharing communities!
+
+---
+
+### What do you plan on doing in the future?
+I would like to dabble more into electric engineering and understand electrical components more. The fact that electricity is so versatile is increadibly fascinating to me, especially when you can combine it with code to get more possibilities out of it! 
 
 ---
 
