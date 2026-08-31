@@ -8,15 +8,6 @@ I would like to dabble more into electric engineering and understand electrical 
 
 ---
 
-- Q: Why is your profile so empty? 👀
-- A: `This is because majority of my projects are unfortunately private, I have ideas that I think are very good, but I would like to flush them out more, before they go public!`
-
-- Q: What does your username "kubiku" mean? 🤔
-- A: `This is a branding name I came up with for my music artist account and how I go by online.`
-
-- Q: How can I contact you? 📫
-- A: `You can reach me by contacting me through my email: kubiku.contact@gmail.com`
-
 <!--
 **nazarsarkisjan/nazarsarkisjan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
